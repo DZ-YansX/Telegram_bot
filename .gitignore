@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.db
+*.db-*
+*.zip
+__pycache__/
+.pytest_cache/
+.venv/
+build/
+deployment.json
+secrets.json
+.DS_Store
+.vscode/
